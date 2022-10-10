@@ -1,0 +1,31 @@
+* {
+    background: black;
+    color: lightgray;
+}
+img {
+    width: 500px;
+    height: auto;    
+}
+#day1 {
+    width: 200px;
+    height: auto;
+}
+h1 {
+    color: lightgray;
+}
+div {
+    width: 100%;
+    height: auto;
+}
+#messy{
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+ #messy > p {
+    position: absolute;
+    font-size: 50pt;
+    top: -15px;
+    margin: 0px;
+    background: none;
+}
